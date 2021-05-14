@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Mobiotics-Assignment/static/css/main.8ce85695.chunk.css",
+    "main.js": "/React-Mobiotics-Assignment/static/js/main.9cd14404.chunk.js",
+    "main.js.map": "/React-Mobiotics-Assignment/static/js/main.9cd14404.chunk.js.map",
+    "runtime-main.js": "/React-Mobiotics-Assignment/static/js/runtime-main.8683e6d1.js",
+    "runtime-main.js.map": "/React-Mobiotics-Assignment/static/js/runtime-main.8683e6d1.js.map",
+    "static/css/2.5913c1cf.chunk.css": "/React-Mobiotics-Assignment/static/css/2.5913c1cf.chunk.css",
+    "static/js/2.30c2406c.chunk.js": "/React-Mobiotics-Assignment/static/js/2.30c2406c.chunk.js",
+    "static/js/2.30c2406c.chunk.js.map": "/React-Mobiotics-Assignment/static/js/2.30c2406c.chunk.js.map",
+    "static/js/3.cb360423.chunk.js": "/React-Mobiotics-Assignment/static/js/3.cb360423.chunk.js",
+    "static/js/3.cb360423.chunk.js.map": "/React-Mobiotics-Assignment/static/js/3.cb360423.chunk.js.map",
+    "index.html": "/React-Mobiotics-Assignment/index.html",
+    "static/css/2.5913c1cf.chunk.css.map": "/React-Mobiotics-Assignment/static/css/2.5913c1cf.chunk.css.map",
+    "static/css/main.8ce85695.chunk.css.map": "/React-Mobiotics-Assignment/static/css/main.8ce85695.chunk.css.map",
+    "static/js/2.30c2406c.chunk.js.LICENSE.txt": "/React-Mobiotics-Assignment/static/js/2.30c2406c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8683e6d1.js",
+    "static/css/2.5913c1cf.chunk.css",
+    "static/js/2.30c2406c.chunk.js",
+    "static/css/main.8ce85695.chunk.css",
+    "static/js/main.9cd14404.chunk.js"
+  ]
+}
