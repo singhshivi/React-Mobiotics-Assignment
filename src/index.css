@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #b3ffb3;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,3 +12,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-primary {
+  background-color: #FFFF00;
+  border-color: #f4faf6;
+}
+
+#example {
+  margin: 3rem;
+}
+
+.customContainer {
+  border: 1px solid black;
+}
+
+
+
+ 

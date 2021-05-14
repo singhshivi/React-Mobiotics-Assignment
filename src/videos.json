@@ -1,0 +1,15 @@
+[
+    { 
+        "name": "Title: Projects", 
+        "title": "Description: 10 Projects in front end",
+        
+        "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd"
+    },
+    { "name": "Title: Marvel Studios", "title": "Description: Trailer of new movie", "url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" },
+    { "name": "Title: HTML Course", "title": "Description: Learn html basics","url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd" },
+    { "name": "Title: CSS Course", "title": "Description: learn css basics", "url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" },
+    { "name": "Title: Java SCript", "title": "Description: learn javascript basics", "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd" },
+    { "name": "Title: Ract Native","title": "Description: learn from scratch react native", "url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" },
+    { "name": "Title: Angular JS","title": "Description: learn angular js full course",  "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd" },
+    { "name": "Title: Bootstrap","title": "Description: learn bootstrap full", "url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" }
+]
