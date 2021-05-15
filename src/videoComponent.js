@@ -17,14 +17,11 @@ export default class VideoComponent extends Component {
             <Row gutter={40}>
                 {(videoList).map(video => 
                 <Col span={4}>
-                    <ShakaPlayer src={video.url} />
+                    <ShakaPlayer src={video.url} poster={video.image}/>
                     <p>{video.name}</p>
                     <p>{video.title}</p>
                 </Col>
             )}
             </Row>
         )
-    }
-
-
-}
+                }}
