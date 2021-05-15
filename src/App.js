@@ -6,7 +6,6 @@ function App() {
   return (
     <div className='kendo-details'>
       <h2 style={{ padding: "20px 20px", textAlign: "center", color: "Blue", fontSize: "50px"}}>Welcome To My React App</h2>
-      <div id="like_button_container"></div>
     <Video />
     </div>
   );
